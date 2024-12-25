@@ -1,10 +1,5 @@
 
----
-layout: post
-title:  "Color"
-date:   2024-12-25 11:56:33 +0530
-categories: Neuroscience
----
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +7,7 @@ categories: Neuroscience
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Color Science</title>
+    <title>Color Science: Predicting Biology from Behavior</title>
     <style>
         
         .container {
@@ -209,7 +204,7 @@ categories: Neuroscience
             <!-- Blog Post Section -->
             <div class="main-content">
                 <article>
-                    <h1>Color Science: Predicting Biology from Behavior</h1>
+                    <!-- <h1>Color Science: Predicting Biology from Behavior</h1> -->
                     <!-- <time datetime="2024-11-17">November 17, 2024</time> -->
                     
                     <p> In Ted Chiang&#39;s <a href='https://www.lightspeedmagazine.com/fiction/exhalation/'>Exhalation</a>, a mechanical being notices that their species&#39; perception of time has sped up and suspects that this is because their brains have gotten slower. 
