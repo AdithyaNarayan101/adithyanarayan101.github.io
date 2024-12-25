@@ -55,21 +55,7 @@ categories: Neuroscience
     
     
         /* Basic CSS for layout similar to Jekyll default */
-        body {
-            font-family: 'Helvetica', 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f9fa;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 1.5rem 2rem;
-            text-align: center;
-        }
-
+        
         header h1 {
             font-size: 3.5rem;
             margin: 0;
@@ -80,14 +66,7 @@ categories: Neuroscience
             font-size: 1.2rem;
         }
 
-        main {
-            max-width: 960px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            border-radius: 8px;
-        }
+        
 
         article h2 {
             font-size: 2.2rem;
@@ -145,10 +124,7 @@ categories: Neuroscience
             margin-top: 2rem;
         }
 
-        .footer p {
-            margin: 0;
-        }
-
+        
         /* Link styles */
         a {
             color: #007bff;
@@ -159,35 +135,8 @@ categories: Neuroscience
             text-decoration: underline;
         }
 
-        /* Optional sidebar layout */
-        .sidebar {
-            background-color: #f1f1f1;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            border-radius: 8px;
-        }
+        
 
-        .sidebar h3 {
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-        }
-
-        .sidebar ul {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .sidebar ul li {
-            margin-bottom: 0.5rem;
-        }
-
-        .sidebar ul li a {
-            color: #333;
-        }
-
-        .sidebar ul li a:hover {
-            text-decoration: underline;
-        }
 
         /* Media queries for responsiveness */
         @media (min-width: 768px) {
