@@ -1,7 +1,6 @@
 
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -204,7 +203,7 @@
             <!-- Blog Post Section -->
             <div class="main-content">
                 <article>
-                    <!-- <h1>Color Science: Predicting Biology from Behavior</h1> -->
+                    <h1>Predicting Biology from Behavior</h1>
                     <!-- <time datetime="2024-11-17">November 17, 2024</time> -->
                     
                     <p> In Ted Chiang&#39;s <a href='https://www.lightspeedmagazine.com/fiction/exhalation/'>Exhalation</a>, a mechanical being notices that their species&#39; perception of time has sped up and suspects that this is because their brains have gotten slower. 
@@ -339,7 +338,7 @@
                 
                     <div id="result"></div>
                     
-                    <p> Here's a demo to give a sense of what the experiment was like. Disclaimer! Just like in the color-matching demo, this is NOT the actual test. We can't perform the test for tetrachromacy using normal display monitors because they only have three types of phosphors.</p>
+                    <p> Here's a demo to give a sense of what the experiment was like. Disclaimer: just like in the color-matching demo, this is NOT the actual test. We can't perform the test for tetrachromacy using normal display monitors because they only have three types of phosphors.</p>
 
                     <p>In this <a href = "https://jov.arvojournals.org/article.aspx?articleid=2191517&fbclid=IwAR0CAFPh69vVRaHpwybsCUfZg144foBu_GGTcjEMOdLvB-iAPJTFScAJkSw">Journal of Vision paper from 2010</a>, Jordan and colleagues found that only one of the twenty four obligate carriers they studied was actually able to discriminate between lights that are totally identical to trichromats. Below is a plot of the mean errors in the Rayleigh Discrimination task as a function of mixture ratio. Error rates increased for intermediate ratios for most participants. But see the open circles -- subject cDa29 -- they had no trouble doing this task which stumped the rest of them.</p>
                     <p><img src="/assets/color_science_figs/tetrachromat_data.png" style="width:700px;" alt = 'Data from Tetrachromacy test study'></p>
