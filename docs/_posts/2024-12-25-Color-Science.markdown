@@ -224,7 +224,7 @@
                     <p><a href="https://www.nobelprize.org/prizes/physics/2024/press-release/">All Physicists are simply future neuroscientists</a>. Newton was no different. </p>
                     <p>To understand how looking at light gives rise to the perception of color, we need to first understand what light is. Newton did a series of elegant experiments to understand the fundamental components of light. </p>
                     
-                    <p><img src="images/newton_setup.png" style="width:700px;" alt = 'Newton prism color splitting experiment setup '></p>
+                    <p><img src="/assets/color_science_figs/newton_setup.png" style="width:700px;" alt = 'Newton prism color splitting experiment setup '></p>
                     
                     <div class="quote-container">"As the Rays <span class="hljs-keyword">of</span> light differ <span class="hljs-keyword">in</span> degrees <span class="hljs-keyword">of</span> Refrangibility, so they also differ <span class="hljs-keyword">in</span> their disposition to exhibit this <span class="hljs-keyword">or</span> <span class="hljs-keyword">that</span> particular colour (...) Some Rays are disposed to exhibit a red colour <span class="hljs-keyword">and</span> no other; some a yellow <span class="hljs-keyword">and</span> no other, some a green <span class="hljs-keyword">and</span> no other, <span class="hljs-keyword">and</span> so <span class="hljs-keyword">of</span> the rest" (Opticks, 1704)
                     </div><p>He let sunlight in through a tiny hole in his dark room. He placed a prism in the path of the light and let the refracted light fall upon the screen. Light passed through the prism and formed a rainbow on his screen. He noted that different rays of light differ in how they were refracted, and that the degree of their refractiveness corresponded to the color in which they appeared. </p>
@@ -232,7 +232,7 @@
                     
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/KTzGBJPuJwM" frameborder="0" allowfullscreen></iframe>
 
-                    <!-- <img src="images/prism.png" style="width:700px;" alt = 'Dark side of the moon'> -->
+                    <!-- <img src="/assets/color_science_figs/prism.png" style="width:700px;" alt = 'Dark side of the moon'> -->
                     <p>Then, Newton cut a slit on the screen to allow only a portion of the rainbow to pass through. He placed a second prism in the path of this ray.  He observed that:  </p>
                     
                         <div class="quote-container">
@@ -273,10 +273,10 @@
                     <p>They found that having two primary lights was insufficient to match all colors, while having four was too many. These behavioral experiments proved that it was necessary and sufficient to have three appropriately chosen primary lights to match the appearance of <em>any</em> light of arbitrary spectral composition. 
                     This meant that there were infinitely many lights with different spectral distributions that all appeared identical to humans. </p>
                     <p>To illustrate this, look outside your window at the sunlight. Okay, now look at this photo of the sky: </p>
-                    <p><img src="images/sun_image.png" style="width:700px;" alt = 'Photo of the sun'></p>
+                    <p><img src="/assets/color_science_figs/sun_image.png" style="width:700px;" alt = 'Photo of the sun'></p>
 
                     <p>In these two cases, your eyes were stimulated by light with very different spectral power distributions. Below, the left panel shows an approximation of the spectral power of the sun. On the right is the spectral distribution of the light coming out of a typical computer monitor which has been calibrated to produce an image that is identical to sunlight to most human observers. Such stimuli, that are physically different but perceptually indistinguishable, are called Metamers. </p>
-                    <p><img src="images/sun_spectral_distribution.png" style="width:700px;" alt = 'Spectral power distribution of the sun and its image on a display monitor'><br>From foundations of vision, chapter 4</p>
+                    <p><img src="/assets/color_science_figs/sun_spectral_distribution.png" style="width:700px;" alt = 'Spectral power distribution of the sun and its image on a display monitor'><br>From foundations of vision, chapter 4</p>
 
                     <p>Disclaimer: The color-matching demo above is misleading. We cannot perform a true trichromatic color matching experiment on a computer monitor. 
                         The reason for that is evidence of the enormous impact that this behavioral finding has had on the larger world: 
@@ -288,7 +288,7 @@
                     <p>{Add demonstration}</p> -->
 
                     <p>The scientists of the 1800s didn&#39;t just stop at identifying the number of distinct primary lights required to match human vision, but also made precise predictions of &#39;color-matching functions&#39;: the intensity of each chosen primary light needed to match a monochromatic light of a given wavelength. For example, to get a monochromatic light of wavelength 550nm, what we need is an intensity of 1 for R, intensity of 1 for G, and intensity of 0 for B. </p>
-                    <p><img src="images/color_matching_functions.png" style="width:700px;" alt = 'Color matching functions based on human psychophysics'></p>
+                    <p><img src="/assets/color_science_figs/color_matching_functions.png" style="width:700px;" alt = 'Color matching functions based on human psychophysics'></p>
 
                     <p>The color matching functions are not unique: So if we used two distinct sets of primary lights, we will arrive at different color-matching functions. But the two functions are related by a linear transformation. We can think of this linear transformation as adjusting the intensities of the first set of primary lights to match the intensities of the second set of primary lights. </p>
                     <p>Based on these findings, they predicted that the human eye must contain three types of receptors. Moreover, they predicted that the absorption spectra of these three receptors must explain the color-matching results, i.e. they will be related to the color-matching functions by a linear transformation. </p>
@@ -297,11 +297,11 @@
                     <div class="quote-container">To suppose that <span class="hljs-keyword">the</span> eye <span class="hljs-keyword">with</span> all its inimitable contrivances <span class="hljs-keyword">for</span> adjusting <span class="hljs-keyword">the</span> focus <span class="hljs-built_in">to</span> different distances, <span class="hljs-keyword">for</span> admitting different amounts <span class="hljs-keyword">of</span> light, <span class="hljs-keyword">and</span> <span class="hljs-keyword">for</span> <span class="hljs-keyword">the</span> correction <span class="hljs-keyword">of</span> spherical <span class="hljs-keyword">and</span> chromatic aberration, could have been formed <span class="hljs-keyword">by</span> natural selection, seems, I freely confess, absurd <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> highest degree - Charles Darwin.
                     </div>
                     <br>
-                    <p><img src="images/davinci_eye.png" style="width:400px;" alt = 'Da Vinci drawing of the eye'></p>
+                    <p><img src="/assets/color_science_figs/davinci_eye.png" style="width:400px;" alt = 'Da Vinci drawing of the eye'></p>
 
                     <p>To conclude the saga and discover the biological basis of human trichromatic vision, in the late 1900s, Baylor, Nunn, and Schnapf painstakingly measured the spectral sensitivities of the different cone types. To do this, they harvested retinas, the sheet of tissue at the back of the eye where light falls. Our retina contains primarily two types of photo-receptors: Rods and Cones. When light falls on these cells, they convert this to electrical signals. Rods operate more in &#39;scotopic&#39; vision, that is when it is relatively dark. Cones operate in photopic vision, when it is bright, and mediate &#39;color vision&#39; because there are three types of cones that are sensitive to different wavelengths. The fact that there are three types of cones, was known by the 1980s. But their exact spectral sensitivities, that is the shape and amplitude of how much each wavelength of light excites a given cone, had not been measured. These measurements are key in testing whether the cone spectral sensitivites can explain the behavioral results from the color-matching experiments.</p>
                     <p>So, Baylor and colleagues undertook this heroic experiment. They took the harvested retinal tissue, isolated a single cone, and preserved it in a solution that keeps it alive for a few hours post-harvesting. Then, they passed monochromatic lights of various wavelengths and observed the sensitivity of different cones. They found three different cone types with spectral response functions that showed peaks in different wavelengths, which they called the short, medium, and long wavelength cones. Further, they  showed that there is a linear transformation that converts the cone photocurrent measurements into the color-matching functions predicted from the behavioral experiments. This paper finally provided the biological basis to explain the results from the color-matching experiments. </p>
-                    <p><img src="images/cone_spectral_sensitivity.png" style="width:400px;" alt = 'Cone spectral sensitivity'></p>
+                    <p><img src="/assets/color_science_figs/cone_spectral_sensitivity.png" style="width:400px;" alt = 'Cone spectral sensitivity'></p>
 
                     
                     <p>I first learned about this from <a href = "https://www.cns.nyu.edu/~eero/">Eero Simoncelli</a> when I attended the <a href = "https://meetings.cshl.edu/courses.aspx?course=c-visi">CSHL course on vision</a>. Here's a quote from a <a href="https://www.youtube.com/watch?v=eKKXJyabCAQ">talk</a> of his where he does a much better job of conveying the essence of this scientific story and why it&#39;s worthy of praise. (In his own career, he sought to and succeeded in discovering a similar scientific story: <a href='https://pubmed.ncbi.nlm.nih.gov/21841776/'>Metamers and pattern vision</a> )</p>
@@ -342,7 +342,7 @@
                     <p> Here's a demo to give a sense of what the experiment was like. Disclaimer! Just like in the color-matching demo, this is NOT the actual test. We can't perform the test for tetrachromacy using normal display monitors because they only have three types of phosphors.</p>
 
                     <p>In this <a href = "https://jov.arvojournals.org/article.aspx?articleid=2191517&fbclid=IwAR0CAFPh69vVRaHpwybsCUfZg144foBu_GGTcjEMOdLvB-iAPJTFScAJkSw">Journal of Vision paper from 2010</a>, Jordan and colleagues found that only one of the twenty four obligate carriers they studied was actually able to discriminate between lights that are totally identical to trichromats. Below is a plot of the mean errors in the Rayleigh Discrimination task as a function of mixture ratio. Error rates increased for intermediate ratios for most participants. But see the open circles -- subject cDa29 -- they had no trouble doing this task which stumped the rest of them.</p>
-                    <p><img src="images/tetrachromat_data.png" style="width:700px;" alt = 'Data from Tetrachromacy test study'></p>
+                    <p><img src="/assets/color_science_figs/tetrachromat_data.png" style="width:700px;" alt = 'Data from Tetrachromacy test study'></p>
 
                     <p>In this case, the knowledge of biology, that the properties of our cones constrain our perception and that a subset of females who are mothers of anamalous trichromats might have four cones tuned to specific wavelengths, informed who to study and what to look for in the behavior. So we&#39;ve come full circle, from behavior predicting biology to biology predicting behavior. </p>
                     <!-- <p>I find the story of color science inspirational.  It&#39;s a point in support of the crucial role of <a href="Yael Niv Primacy of Behavioral Research">behavioral research in neuroscience</a>. It's also fascinating to see a scientific story play out across centuries.  </p> -->
