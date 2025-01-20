@@ -220,7 +220,7 @@
                     
                     
                     <h2 id="studying-the-stimulus-what-is-light-">Studying the stimulus: What is light?</h2>
-                    <p><a href="https://www.nobelprize.org/prizes/physics/2024/press-release/">All Physicists are simply future neuroscientists</a>. Newton was no different. </p>
+                    <p><a href="https://www.nobelprize.org/prizes/physics/2024/press-release/">All physicists are simply future neuroscientists</a>. Newton was no different. </p>
                     <p>To understand how looking at light gives rise to the perception of color, we need to first understand what light is. Newton did a series of elegant experiments to understand the fundamental components of light. </p>
                     
                     <p><img src="/assets/color_science_figs/newton_setup.png" style="width:700px;" alt = 'Newton prism color splitting experiment setup '></p>
@@ -354,7 +354,7 @@
                     
                     </ul>
                     <p> Thanks to Rithika Sankar for patiently explaining basic genetics to me.</p>
-                    <p> Please <a href="mailto:adithyanarayan101@gmail.com">let me know</a> if you spot any errors or mistakes. I'd like to be accurate but I'm still learning, so I greatly appreciate any feedback. </p>
+                    <p> Please <a href="mailto:adithyanarayan101@gmail.com">let me know</a> if you spot any errors or mistakes. I'd like to be as accurate as possible, so I greatly appreciate any feedback. </p>
                     <hr>
 
                 </article>
