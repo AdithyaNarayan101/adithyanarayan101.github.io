@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Timepass"
+title:  "Timepass: Replicating Jazayeri and Shadlen's Ready Set Go task"
 date:   2025-08-09 09:20:00 +0530
 categories: Neuroscience
 ---
 (A hobby psychophysics project)
 
-TLDR: Replicated [Jazayeri & Shadlen 2010](https://www.nature.com/articles/nn.2590)'s time perception behavioral task and results: [Ready Set Go task](https://adithyanarayan101.github.io/time/rsg_standard)
+TLDR: Replicated [Jazayeri & Shadlen 2010](https://www.nature.com/articles/nn.2590)'s time perception task and results: [Ready Set Go task](https://adithyanarayan101.github.io/time/rsg_standard)
 
 
 ## Thinking about Time
@@ -54,7 +54,7 @@ Each trial begins with the presentation of a red circle followed by an orange ci
 
 Here's how a single trial looks: 
 
-<video autoplay loop muted playsinline width="640">
+<video controls autoplay muted loop playsinline style="max-width: 100%; height: auto;">
   <source src="/assets/rsg_figures/single_trial.mp4" type="video/mp4">
 </video>
 
