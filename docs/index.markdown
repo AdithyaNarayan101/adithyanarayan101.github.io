@@ -8,7 +8,7 @@ title: ''
 <img width="200" align=right id="profile" src="/assets/brain_fun.png"/>
 ## Hi. I'm Adi. Welcome to my website! 
 
-I am a neuroscientist interested in how populations of neurons process sensory information, make decisions, and execute motor actions. 
+I am a neuroscientist interested in how we process sensory information, make decisions, and execute motor actions. 
 
 I'm doing my PhD in Neuroscience with MSSCABBY (Drs. [Matt Smith](https://smithlab.net/){:target="_blank"}, [Steve Chase](https://chaselab.github.io/){:target="_blank"}, [Aaron Batista](https://smile.pitt.edu/){:target="_blank"}, & [Byron Yu](https://users.ece.cmu.edu/~byronyu/){:target="_blank"}) at the [University of Pittsburgh](https://www.cnup.pitt.edu/about){:target="_blank"} and the [Center for the Neural Basis of Cognition](https://www.cnbc.cmu.edu/){:target="_blank"} (Carnegie Mellon University & University of Pittsburgh). 
 
