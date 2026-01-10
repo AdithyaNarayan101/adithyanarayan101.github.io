@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: default
 title:  "Timepass: Replicating Jazayeri and Shadlen's Ready Set Go task"
 date:   2025-08-09 09:20:00 +0530
 categories: Neuroscience
 ---
+# Timepass: Replicating Jazayeri and Shadlen's Ready Set Go task
 (A hobby psychophysics project)
 
 TLDR: Replicated [Jazayeri & Shadlen 2010](https://www.nature.com/articles/nn.2590)'s time perception task and results: [Ready Set Go task](https://adithyanarayan101.github.io/time/rsg_standard)

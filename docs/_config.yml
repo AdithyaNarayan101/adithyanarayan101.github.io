@@ -23,9 +23,8 @@ email: adithyanarayan101@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AdithyaNeurayan
 github_username:  adithyanarayan101
-
+show_excerpts: false
 # Build settings
 theme: minima
 plugins:
